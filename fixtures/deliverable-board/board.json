@@ -1,0 +1,121 @@
+{
+  "production": "Harbor Night",
+  "cut": "Temp 04 / picture-lock watch",
+  "asOf": "2026-09-03T12:00:00Z",
+  "columns": [
+    {
+      "id": "picture-lock",
+      "label": "Picture lock"
+    },
+    {
+      "id": "m-and-e",
+      "label": "M&E"
+    },
+    {
+      "id": "legal",
+      "label": "Legal"
+    },
+    {
+      "id": "deliverables",
+      "label": "Deliverables"
+    }
+  ],
+  "cards": [
+    {
+      "id": "DS-01",
+      "column": "picture-lock",
+      "title": "Reel 3 picture lock",
+      "owner": "Noah Kim (editorial, demo)",
+      "status": "in-progress",
+      "lastTouch": "2026-08-25T16:00:00Z",
+      "note": "VFX shot 3-14 still open. No column move until a human attests.",
+      "stale": true,
+      "severity": "HIGH",
+      "flag": "No touch in 9 days"
+    },
+    {
+      "id": "DS-02",
+      "column": "picture-lock",
+      "title": "Reel 1 conform",
+      "owner": "Noah Kim (editorial, demo)",
+      "status": "ready",
+      "lastTouch": "2026-09-02T18:20:00Z",
+      "note": "Conform signed internally. Not a distributor notice.",
+      "stale": false,
+      "severity": "MED",
+      "flag": ""
+    },
+    {
+      "id": "DS-03",
+      "column": "m-and-e",
+      "title": "5.1 M&E print",
+      "owner": "Chris Nguyen (sound, demo)",
+      "status": "waiting",
+      "lastTouch": "2026-08-26T11:10:00Z",
+      "note": "Waiting Foley pickup on the warehouse door. AI flag only.",
+      "stale": true,
+      "severity": "HIGH",
+      "flag": "Foley pickup overdue"
+    },
+    {
+      "id": "DS-04",
+      "column": "m-and-e",
+      "title": "LtRt fold-down",
+      "owner": "Chris Nguyen (sound, demo)",
+      "status": "ready",
+      "lastTouch": "2026-09-01T09:40:00Z",
+      "note": "Fold-down parked. Human attests before any send.",
+      "stale": false,
+      "severity": "MED",
+      "flag": ""
+    },
+    {
+      "id": "DS-05",
+      "column": "legal",
+      "title": "Chain of title — Exhibit B",
+      "owner": "Avery Cole (legal, demo)",
+      "status": "blocked",
+      "lastTouch": "2026-08-20T14:00:00Z",
+      "note": "Missing Exhibit B music cue sheet. Copilot does not file.",
+      "stale": true,
+      "severity": "HIGH",
+      "flag": "Missing exhibit · 14 days"
+    },
+    {
+      "id": "DS-06",
+      "column": "legal",
+      "title": "Likeness riders — day players",
+      "owner": "Avery Cole (legal, demo)",
+      "status": "in-progress",
+      "lastTouch": "2026-09-02T10:15:00Z",
+      "note": "Three riders in review. No auto-clear.",
+      "stale": false,
+      "severity": "MED",
+      "flag": ""
+    },
+    {
+      "id": "DS-07",
+      "column": "deliverables",
+      "title": "IMF + DCP package",
+      "owner": "Sasha Reed (post supervisor, demo)",
+      "status": "waiting",
+      "lastTouch": "2026-08-28T17:00:00Z",
+      "note": "Blocked on reel 3 lock + 5.1. Do not email the lab.",
+      "stale": true,
+      "severity": "HIGH",
+      "flag": "Blocked · stale since 8/28"
+    },
+    {
+      "id": "DS-08",
+      "column": "deliverables",
+      "title": "Textless + forced narrative",
+      "owner": "Sasha Reed (post supervisor, demo)",
+      "status": "ready",
+      "lastTouch": "2026-09-03T08:05:00Z",
+      "note": "On track. Attest only — no distributor mail.",
+      "stale": false,
+      "severity": "MED",
+      "flag": ""
+    }
+  ]
+}
