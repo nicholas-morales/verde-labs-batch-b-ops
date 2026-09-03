@@ -1,0 +1,62 @@
+{
+  "production": "Harbor Night",
+  "day_label": "Day 13",
+  "notes": [
+    {
+      "id": "WN-01",
+      "dept": "Wardrobe",
+      "scene": "61",
+      "character": "Ada Cho / Det. Cho",
+      "author": "Maya Chen (wardrobe, demo)",
+      "body": "Day 13 Ada is CHARCOAL coat per locked bible. Navy was Day 12 dock only."
+    },
+    {
+      "id": "WN-02",
+      "dept": "Wardrobe",
+      "scene": "61",
+      "character": "Ada Cho / Det. Cho",
+      "author": "Maya Chen (wardrobe, demo)",
+      "body": "Cufflinks stay silver. Gold pair is a hero prop for Scene 70, not today."
+    },
+    {
+      "id": "WN-03",
+      "dept": "Hair",
+      "scene": "61",
+      "character": "Ada Cho / Det. Cho",
+      "author": "Leo Park (hair, demo)",
+      "body": "Blunt shoulder length, dry. Do not let it read past the collarbone on the wide."
+    },
+    {
+      "id": "WN-04",
+      "dept": "Props",
+      "scene": "61",
+      "character": "Ada Cho / Det. Cho",
+      "author": "Sam Ortiz (props, demo)",
+      "body": "Silver watch, RIGHT wrist. Left-wrist stills are a reset."
+    },
+    {
+      "id": "WN-05",
+      "dept": "Wardrobe",
+      "scene": "61",
+      "character": "Ada Cho / Det. Cho",
+      "author": "Maya Chen (wardrobe, demo)",
+      "body": "Navy silk scarf is on the bible for every 61/62 setup. Reset if it walks off."
+    },
+    {
+      "id": "WN-06",
+      "dept": "Wardrobe",
+      "scene": "62",
+      "character": "Quinn Alvarez / CI Quinn",
+      "author": "Maya Chen (wardrobe, demo)",
+      "body": "Left boot scuff from Scene 56 stays. Clean boots break continuity."
+    },
+    {
+      "id": "WN-07",
+      "dept": "Wardrobe",
+      "scene": "62",
+      "character": "Quinn Alvarez / CI Quinn",
+      "author": "Maya Chen (wardrobe, demo)",
+      "body": "Olive field jacket, no jewelry — this is the match look."
+    }
+  ]
+}

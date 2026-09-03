@@ -1,0 +1,42 @@
+{
+  "production": "Harbor Night",
+  "date": "2026-09-04",
+  "stills": [
+    {
+      "id": "ST-61A",
+      "scene": "61",
+      "setup": "A",
+      "character": "Ada Cho / Det. Cho",
+      "label": "Ada Cho wide — warehouse door",
+      "stub": "Navy wool coat, gold cufflinks catching practical, hair past collarbone, watch on LEFT wrist",
+      "capturedAt": "2026-09-04T07:12:00Z"
+    },
+    {
+      "id": "ST-61B",
+      "scene": "61",
+      "setup": "B",
+      "character": "Ada Cho / Det. Cho",
+      "label": "Ada Cho MCU — scarf missing",
+      "stub": "Charcoal coat correct, silver cufflinks, no scarf, watch right wrist",
+      "capturedAt": "2026-09-04T07:18:00Z"
+    },
+    {
+      "id": "ST-62A",
+      "scene": "62",
+      "setup": "A",
+      "character": "Quinn Alvarez / CI Quinn",
+      "label": "Quinn insert — boots",
+      "stub": "Olive field jacket, clean brown boots, no visible scuff",
+      "capturedAt": "2026-09-04T08:04:00Z"
+    },
+    {
+      "id": "ST-62B",
+      "scene": "62",
+      "setup": "B",
+      "character": "Quinn Alvarez / CI Quinn",
+      "label": "Quinn medium — jacket match",
+      "stub": "Olive field jacket, no jewelry, cropped hair with product",
+      "capturedAt": "2026-09-04T08:11:00Z"
+    }
+  ]
+}

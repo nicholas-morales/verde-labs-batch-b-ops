@@ -1,0 +1,23 @@
+{
+  "production": "Harbor Night",
+  "day_label": "Day 13",
+  "locked": true,
+  "locked_by": "Priya Raman (script supervisor, demo)",
+  "locked_note": "Look bible locked after Day 12 wrap. Accepting a continuity note writes continuity_log only — the bible does not auto-change.",
+  "looks": [
+    {
+      "id": "LB-ADA",
+      "character": "Ada Cho / Det. Cho",
+      "wardrobe": "Charcoal wool coat, silver cufflinks, navy silk scarf, silver watch on right wrist",
+      "hair": "Shoulder-length blunt, dry",
+      "notes": "Navy coat was Day 12 dock only. Day 13 warehouse is charcoal."
+    },
+    {
+      "id": "LB-QUINN",
+      "character": "Quinn Alvarez / CI Quinn",
+      "wardrobe": "Olive field jacket, no jewelry, scuffed brown boots",
+      "hair": "Cropped, product, no fade change",
+      "notes": "Keep the scuff on the left boot from Scene 56."
+    }
+  ]
+}

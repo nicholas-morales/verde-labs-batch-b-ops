@@ -1,0 +1,65 @@
+{
+  "production": "Harbor Night",
+  "date": "2026-09-04",
+  "day_label": "Day 13 standup",
+  "location": "Warehouse Glendale",
+  "channel": "#harbor-night-standup.example",
+  "emailTo": "desk@harbor-night.example",
+  "departments": [
+    {
+      "id": "AD",
+      "dept": "1st AD",
+      "author": "Jordan Hale (AD, demo)",
+      "items": [
+        "General call 06:30 Warehouse Glendale.",
+        "Scenes 61/62 first-up; 63 is weather cover.",
+        "Meal window 12:30 — flag if camera rolls late (SD-01)."
+      ]
+    },
+    {
+      "id": "CAM",
+      "dept": "Camera",
+      "author": "Riley Cho (DP, demo)",
+      "items": [
+        "A-cam Alexa, B-cam Venice. Need a 15-min lens swap before 62B.",
+        "Card 4 is at 80% — swap at first company move (SD-02)."
+      ]
+    },
+    {
+      "id": "SND",
+      "dept": "Sound",
+      "author": "Chris Nguyen (mixer, demo)",
+      "items": [
+        "Warehouse HVAC hum on 61A. Request a 2-min kill for the door wide (SD-03).",
+        "Lavs on Ada + Quinn. Boom only for 62 inserts."
+      ]
+    },
+    {
+      "id": "WD",
+      "dept": "Wardrobe",
+      "author": "Maya Chen (wardrobe, demo)",
+      "items": [
+        "Ada charcoal coat reset after 61A navy miss.",
+        "Quinn left-boot scuff check before 62A (SD-04)."
+      ]
+    },
+    {
+      "id": "LOC",
+      "dept": "Locations",
+      "author": "Elena Voss (locations, demo)",
+      "items": [
+        "Glendale lot holds until 19:00. Neighbor notice posted.",
+        "Generator parked north alley — do not idle at the loading door (SD-05)."
+      ]
+    },
+    {
+      "id": "ED",
+      "dept": "Editorial",
+      "author": "Noah Kim (editor, demo)",
+      "items": [
+        "Need 61A selects by wrap for the Friday cut.",
+        "No contoh-post to Slack. Digest stays held until AD Approve (SD-06)."
+      ]
+    }
+  ]
+}
